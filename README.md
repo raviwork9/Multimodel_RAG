@@ -13,7 +13,7 @@ A PDF question-answering app that extracts text, tables, and images, stores vect
 
 ## How it works
 
-![Graph structure](docs/graph_structure.png)
+![Graph structure](graph_structure.png)
 
 Ingestion (LangGraph):
 
