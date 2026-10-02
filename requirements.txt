@@ -1,0 +1,11 @@
+numpy
+psycopg[binary]
+pgvector
+python-dotenv
+huggingface-hub
+langchain-core
+langchain-huggingface
+langgraph
+sentence-transformers
+streamlit
+unstructured[pdf,local-inference]
